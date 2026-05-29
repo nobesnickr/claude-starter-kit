@@ -9,10 +9,10 @@ You should have already: installed Claude Code, signed in, and run `/setup-me`. 
 Open [AI-LITERACY.md](AI-LITERACY.md) and read it. It explains the one habit — **Cite & Check** — that keeps your work accurate. Everything else here builds on it.
 
 ## 2. Start a project (2 min)
-Open the **Terminal** app, type `claude`, and press Enter. Once Claude Code is running, just ask it:
-> "Start a new project for my weekly report using the starter template, and tell me the goal it should record."
+Open the **Terminal** app, type `claude`, and press Enter. Once Claude Code is running, type:
+> `/new-project`
 
-It creates the folder and copies the template in for you — you don't find or copy any files yourself. Tell it the project's goal in one sentence so it can fill in the README.
+It asks for a short project name and your one-sentence goal, then creates the folder and sets it up for you — you don't find or copy any files yourself.
 
 ## 3. Bring in real data (3 min)
 Take the spreadsheet you actually use for reporting. In Google Sheets: **File → Download → Comma-separated values (.csv)** — it saves to your Downloads. Then tell Claude Code:

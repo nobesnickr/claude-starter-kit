@@ -37,13 +37,14 @@ Open `docs/ONBOARDING.md` and follow the 15-minute guided first session. Read `d
 
 ## Getting your data in
 1. In Google Sheets: **File → Download → Comma-separated values (.csv)**. It saves to your Downloads.
-2. You don't need to know where to put it. In Claude Code, just ask: *"I downloaded a CSV to my Downloads — set up a project and move it in."* Claude Code finds the file and does the filesystem work for you.
+2. You don't need to know where to put it. In Claude Code, just ask: *"Move the CSV from my Downloads into this project."* Claude Code finds the file and does the filesystem work for you.
 
 *Optional, later:* if you'd rather not re-export each time, you can connect the Google Drive connector for live access — but CSV export is the simplest reliable path and all you need to start.
 
 ## What's inside
 - `/bizstrat`, `/datastrat` — your consultants (see `docs/CONSULTANTS.md`)
 - `/setup-me` — re-run anytime to update your settings
+- `/new-project` — set up a new project folder from the template (no manual copying)
 - `docs/` — onboarding, AI literacy, the Decision Registry standard
 - `templates/starter-project/` — the skeleton for a new project. Don't copy it by hand; ask Claude Code to "start a new project from the template."
 
