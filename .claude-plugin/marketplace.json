@@ -1,0 +1,13 @@
+{
+  "name": "claude-starter-kit",
+  "owner": {
+    "name": "nobesnickr"
+  },
+  "plugins": [
+    {
+      "name": "pm-workbench",
+      "source": "./plugins/pm-workbench",
+      "description": "Verification-first Claude Code starter for project managers: business & data consultants, the Cite & Check habit, and a guided first session."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# My Claude Code Preferences
+
+## About me
+- Name: {{NAME}}
+- Role: {{ROLE}}
+- Currently working on: {{CURRENT_WORK}}
+- Preferred answer style: {{ANSWER_STYLE}}
+- Timezone: {{TIMEZONE}}
+
+## Verification rules (do not remove — this is why this setup exists)
+These rules apply to everything you produce for me:
+- **Cite every number and factual claim.** State the exact source — file name + cell/range, or the document it came from. An uncited number is not to be trusted.
+- **Never invent data, sources, figures, or quotes.** If you don't have it, say "I don't know" or "the data doesn't support that," and say what you'd need to find out.
+- **Surface uncertainty.** If you're unsure, say so plainly instead of sounding confident.
+- **Show your work** when I ask, so I can spot-check one source myself (the "Cite & Check" habit).
+
+## How I like to work
+- Plain language. I'm a project manager, not an engineer — explain things without jargon, or define the jargon.
+- Lead with the answer, then the reasoning.
+- When something is risky or irreversible, tell me before doing it.

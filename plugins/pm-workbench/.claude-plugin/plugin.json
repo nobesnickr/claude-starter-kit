@@ -1,0 +1,8 @@
+{
+  "name": "pm-workbench",
+  "version": "0.1.0",
+  "description": "Verification-first Claude Code starter for project managers. Includes the bizstrat and datastrat consultants, the setup-me personalization skill, and the Cite & Check AI-literacy layer.",
+  "author": {
+    "name": "nobesnickr"
+  }
+}
