@@ -46,7 +46,7 @@ Open `docs/ONBOARDING.md` and follow the 15-minute guided first session. Read `d
 - `/setup-me` — re-run anytime to update your settings
 - `/new-project` — set up a new project folder from the template (no manual copying)
 - `docs/` — onboarding, AI literacy, the Decision Registry standard
-- `templates/starter-project/` — the skeleton for a new project. Don't copy it by hand; ask Claude Code to "start a new project from the template."
+- `plugins/pm-workbench/templates/starter-project/` — the skeleton for a new project, bundled inside the plugin. Don't copy it by hand; ask Claude Code to "start a new project from the template."
 
 ## Updating
 When there's a new version: `/plugin marketplace update claude-starter-kit` then `/plugin install pm-workbench`.

@@ -13,7 +13,7 @@ Ask the user, in one message, and wait for the answer:
 2. In one sentence: what's the goal — what does "done" look like?
 
 ## Step 2: Create the project from the template
-- The template lives at `${CLAUDE_PLUGIN_ROOT}/../../templates/starter-project/`. Read its contents first so you know what you're copying.
+- The template lives at `${CLAUDE_PLUGIN_ROOT}/templates/starter-project/`. Read its contents first so you know what you're copying.
 - Create a new folder named after the project **in the current working directory**.
 - **If a folder with that name already exists, stop and ask for a different name — never overwrite.**
 - Copy the entire template into the new folder, including the `docs/` folder and `docs/DECISIONS.md`.

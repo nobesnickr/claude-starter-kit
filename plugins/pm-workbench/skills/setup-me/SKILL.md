@@ -22,7 +22,7 @@ Before writing anything, check whether `~/.claude/CLAUDE.md` exists. If it does,
 - If `~/.claude/memory/MEMORY.md` does not exist, create it with a single heading line: `# Memory Index`.
 
 ## Step 4: Write the global CLAUDE.md
-Start from the template at `${CLAUDE_PLUGIN_ROOT}/../../templates/CLAUDE.md.seed` (read it). Fill in the user's name, role, current work, preferred answer style, and timezone from the interview. **Preserve the template's verification rules verbatim — they are the point.** If a prior CLAUDE.md existed, merge the user's existing personal content in rather than discarding it. Write the result to `~/.claude/CLAUDE.md`.
+Start from the template at `${CLAUDE_PLUGIN_ROOT}/templates/CLAUDE.md.seed` (read it). Fill in the user's name, role, current work, preferred answer style, and timezone from the interview. **Preserve the template's verification rules verbatim — they are the point.** If a prior CLAUDE.md existed, merge the user's existing personal content in rather than discarding it. Write the result to `~/.claude/CLAUDE.md`.
 
 ## Step 5: Confirm and point to onboarding
 Tell the user what you wrote and where. Then point them to the next step:
